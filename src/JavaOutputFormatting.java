@@ -7,7 +7,7 @@ public class JavaOutputFormatting {
         Scanner sc = new Scanner(System.in);
         System.out.println("================================");
         for(int i=0;i<3;i++){
-            String string = sc.next();
+            String string   = sc.next();
             int number =sc.nextInt();
             //Complete this line
             System.out.printf("%-15s", string);

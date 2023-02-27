@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
 import java.io.*;
 
 

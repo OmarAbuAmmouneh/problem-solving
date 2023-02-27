@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="207c0052-6063-4073-865f-7d6aa82073be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaLoopsOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoopsOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <updated>1677332255790</updated>
       <workItem from="1677332257339" duration="1141000" />
       <workItem from="1677385209326" duration="3062000" />
-      <workItem from="1677471256819" duration="1966000" />
+      <workItem from="1677471256819" duration="2334000" />
     </task>
     <servers />
   </component>
