@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 import java.util.*;
 
 public class JavaEndOfFile {
