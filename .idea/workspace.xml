@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="207c0052-6063-4073-865f-7d6aa82073be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,8 @@
       <workItem from="1677471256819" duration="2717000" />
       <workItem from="1677913993821" duration="9462000" />
       <workItem from="1677993846044" duration="1631000" />
-      <workItem from="1678033119032" duration="9984000" />
+      <workItem from="1678033119032" duration="10172000" />
+      <workItem from="1678076625825" duration="2779000" />
     </task>
     <servers />
   </component>
@@ -77,6 +78,11 @@
           <url>file://$PROJECT_DIR$/src/JavaStringCompare.java</url>
           <line>15</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaAnagrams.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
