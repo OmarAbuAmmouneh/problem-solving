@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="207c0052-6063-4073-865f-7d6aa82073be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaBigIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOneDArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <workItem from="1678076625825" duration="3182000" />
       <workItem from="1678117614088" duration="5172000" />
       <workItem from="1678163981332" duration="2158000" />
-      <workItem from="1678300767879" duration="408000" />
+      <workItem from="1678300767879" duration="1257000" />
     </task>
     <servers />
   </component>
