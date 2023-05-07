@@ -3,6 +3,15 @@ import java.util.*;
 
 public class Java1DArrayPartTwo {
 
+    private int moveOneStep(int step) {
+        return step++;
+    }
+    private int backOneStep(int step) {
+        return step--;
+    }
+    private int jump(int step, int jump) {
+        return step += jump;
+    }
     public static boolean canWin(int leap, int[] game) {
         int arrayLength = game.length;
         try {
