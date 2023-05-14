@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class RotateMatrix {
 
-    public static boolean RotateMatrix90Degree(int[][] matrix) {
+    private static boolean RotateMatrix90Degree(int[][] matrix) {
         if (matrix.length == 0) return false;
         for (int layer = 0; layer < matrix.length/2; layer++) {
             int first = layer;
