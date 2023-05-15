@@ -1,8 +1,13 @@
 import java.util.HashSet;
 
 class LinkedListNode {
+    public void setNext(LinkedListNode next) {
+        this.next = next;
+    }
+
     public LinkedListNode next;
     public int data;
+
 }
 
 public class DeleteDuplicates {
