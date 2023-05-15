@@ -6,7 +6,6 @@ class LinkedListNode {
 }
 
 public class DeleteDuplicates {
-
     private static void deleteDuplicates (LinkedListNode node) {
         HashSet<Integer> set = new HashSet<>();
         LinkedListNode previous = null;
@@ -20,8 +19,4 @@ public class DeleteDuplicates {
             node = node.next;
         }
     }
-
-    public static void main(String[] args) {
-    }
-
 }
