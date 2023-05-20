@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="207c0052-6063-4073-865f-7d6aa82073be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/StackOfPlates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +63,7 @@
       <workItem from="1684081268664" duration="2302000" />
       <workItem from="1684164891837" duration="3192000" />
       <workItem from="1684172966748" duration="4026000" />
+      <workItem from="1684573570288" duration="1520000" />
     </task>
     <servers />
   </component>
