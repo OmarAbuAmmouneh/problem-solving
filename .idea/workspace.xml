@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="207c0052-6063-4073-865f-7d6aa82073be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AnimalShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CanPlaceFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeImportance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvalRpn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinMinArrowShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindFirstAndLastPositionElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterleavingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumUniqeEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimplifyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubstringWithConcatenationOfAllWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SummaryRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OneAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneAway.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +68,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.CanPlaceFlowers">
+    <configuration name="CanPlaceFlowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CanPlaceFlowers" />
+      <module name="problem-solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCombinationsOfAPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LetterCombinationsOfAPhoneNumber" />
+      <module name="problem-solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="problem-solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalFruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TotalFruit" />
+      <module name="problem-solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordBreak" />
+      <module name="problem-solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CanPlaceFlowers" />
+        <item itemvalue="Application.LetterCombinationsOfAPhoneNumber" />
+        <item itemvalue="Application.TotalFruit" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.WordBreak" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +154,35 @@
       <workItem from="1684081268664" duration="2302000" />
       <workItem from="1684164891837" duration="3192000" />
       <workItem from="1684172966748" duration="4026000" />
-      <workItem from="1684573570288" duration="3846000" />
+      <workItem from="1684573570288" duration="4544000" />
+      <workItem from="1698339052979" duration="593000" />
+      <workItem from="1711396853332" duration="4461000" />
+      <workItem from="1715378223110" duration="11000" />
+      <workItem from="1718700030892" duration="922000" />
+      <workItem from="1720468442700" duration="823000" />
+      <workItem from="1720809595115" duration="649000" />
+      <workItem from="1720877127161" duration="513000" />
+      <workItem from="1720883415520" duration="3197000" />
+      <workItem from="1722244356884" duration="247000" />
+      <workItem from="1722244614774" duration="10404000" />
+      <workItem from="1722340521852" duration="8842000" />
+      <workItem from="1722356159453" duration="55000" />
+      <workItem from="1722506450288" duration="8079000" />
+      <workItem from="1722598110516" duration="4326000" />
+      <workItem from="1723372696438" duration="6793000" />
+      <workItem from="1723536603441" duration="7211000" />
+      <workItem from="1723572616458" duration="4458000" />
+      <workItem from="1723632371048" duration="3659000" />
+      <workItem from="1723657589060" duration="2017000" />
+      <workItem from="1723897786432" duration="2280000" />
+      <workItem from="1724234375832" duration="976000" />
+      <workItem from="1724597250368" duration="643000" />
+      <workItem from="1724938786168" duration="9000" />
+      <workItem from="1725041167301" duration="1668000" />
+      <workItem from="1725468470849" duration="2383000" />
+      <workItem from="1725707384019" duration="1446000" />
+      <workItem from="1725789602197" duration="966000" />
+      <workItem from="1727264405461" duration="1130000" />
     </task>
     <servers />
   </component>
@@ -93,9 +209,139 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JavaAnagrams.java</url>
+          <url>file://$PROJECT_DIR$/src/RemoveDuplicates.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GroupAnagram.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EvalRpn.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicCalculator.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeIntervals.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InsertInterval.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InsertInterval.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinMinArrowShots.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ValidParentheses.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SimplifyPath.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SimplifyPath.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SimplifyPath.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EmployeeLinkedListTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Combinations.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Combinations.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenerateParenthesis.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordSearch.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortRotatedSortedArray.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindFirstAndLastPositionElementInSortedArray.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindFirstAndLastPositionElementInSortedArray.java</url>
           <line>22</line>
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PalindromeNumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PlusOne.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinChange.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterleavingString.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TotalFruit.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LetterCombinationsOfAPhoneNumber.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CanPlaceFlowers.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

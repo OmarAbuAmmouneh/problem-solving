@@ -18,7 +18,6 @@ public class OneAway {
         return count < 2;
     }
 
-
     public static void main(String[] args) {
         String strOne = "hellow";
         String strTwo = "hello";
@@ -30,4 +29,5 @@ public class OneAway {
             System.out.println("One away!");
         }
     }
+
 }
